@@ -1,0 +1,30 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoc-anms/libNodeJsToDoApp.git"
+  },
+  "keywords": [
+    "hoc-anms"
+  ],
+  "author": "hoc-anms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoc-anms/libNodeJsToDoApp/issues"
+  },
+  "homepage": "https://github.com/hoc-anms/libNodeJsToDoApp#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "dependencies": {
+    "mongoose": "^5.3.13"
+  }
+}
